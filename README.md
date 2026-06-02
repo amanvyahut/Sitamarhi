@@ -1,4 +1,5 @@
-# 🌾 TSCRIC-LoRa — AI-Powered Smart Irrigation Dashboard
+# 🌾 AI-Powered Precision Agriculture, Intelligent Irrigation,
+and Smart Water Resource Management Platform
 
 <div align="center">
 

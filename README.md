@@ -1,5 +1,17 @@
-# 🌾 AI-Powered Precision Agriculture, Intelligent Irrigation,
-and Smart Water Resource Management Platform
+# 🌾 # TSCRIC-LoRa — AI Powered Smart Irrigation System
+
+Smart irrigation system using ESP8266, LoRa, Firebase, IoT sensors and AI-based predictive rainfall analytics for precision agriculture, water conservation and civil engineering irrigation management.
+
+This project includes:
+- LoRa long-range communication
+- ESP8266 NodeMCU
+- Smart irrigation automation
+- Predictive rainfall analysis
+- Water budgeting
+- Soil moisture monitoring
+- Precision agriculture dashboard
+- Firebase real-time monitoring
+- Offline irrigation control system
 
 <div align="center">
 

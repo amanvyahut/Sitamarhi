@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Version-5.0%20Enterprise-00D4FF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-ESP8266%20%2B%20LoRa-1DB954?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase%20RTDB-FF9800?style=for-the-badge)
 ![Civil Engg](https://img.shields.io/badge/Dept-Civil%20Engineering-8B5CF6?style=for-the-badge)
